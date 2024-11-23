@@ -1,4 +1,5 @@
 const typography = {
+  fontFamily: "vazirmatn",
     fontSize: 15,
     h1: {
       fontWeight: 700,
