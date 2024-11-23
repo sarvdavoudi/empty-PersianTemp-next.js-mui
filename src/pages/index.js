@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>Project Name</title>
       </Head>
-      <Box>به صفحه  اصلی خوش آمدید</Box>
+      <Box>welcome to home page</Box>
     </>
   );
 }
