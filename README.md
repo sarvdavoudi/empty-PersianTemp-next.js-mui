@@ -4,7 +4,7 @@
 
 2.  put  lang="fa" dir='rtl' in document file
 
-3.  create 'rtlCach' file in lib directory:
+3.  create 'rtlCache' file in lib directory:
 
         import createCache from '@emotion/cache';
         import stylisRTLPlugin from 'stylis-plugin-rtl';
