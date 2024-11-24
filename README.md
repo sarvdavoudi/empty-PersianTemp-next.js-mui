@@ -2,7 +2,7 @@
 
 1.  Make sure that in your index file in theme folder configuration, the direction: 'rtl' is properly set.
 
-2.  put <Html lang="fa" dir='rtl'> in document file
+2.  put  lang="fa" dir='rtl' in document file
 
 3.  create 'rtlCach' file in lib directory:
 
