@@ -2,7 +2,7 @@ import React from 'react'
 
 const index = () => {
   return (
-    <div>page not found</div>
+    <div>صفحه وجود ندارد </div>
   )
 }
 

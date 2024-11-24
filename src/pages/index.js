@@ -5,9 +5,9 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Project Name</title>
+        <title>نام پروژه</title>
       </Head>
-      <Box>welcome to home page</Box>
+      <Box>به صفحه اصلی خوش آمدید</Box>
     </>
   );
 }

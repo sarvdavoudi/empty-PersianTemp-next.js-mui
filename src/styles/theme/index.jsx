@@ -26,6 +26,7 @@ export const ThemeProvider = ({ children }) => {
     palette: themeMode === "light" ? lightModePalette : darkModePalette,
     typography: Typography,
     breakpoints,
+    direction: "rtl",
   };
 
   const theme = createTheme(themeOptions);
