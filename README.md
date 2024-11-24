@@ -19,13 +19,13 @@
 4.  Wrap the App in CacheProvider:
     In your \_app.js or ThemeProvider component, apply the cache:
 
-import { CacheProvider } from '@emotion/react';
-import rtlCache from '../lib/rtlCache';
+        import { CacheProvider } from '@emotion/react';
+        import rtlCache from '../lib/rtlCache';
 
-export const ThemeProvider = ({ children }) => {
-return (
-<CacheProvider value={rtlCache}>
-{children}
-</CacheProvider>
-);
-};
+        export const ThemeProvider = ({ children }) => {
+        return (
+        <CacheProvider value={rtlCache}>
+        {children}
+        </CacheProvider>
+        );
+        };
